@@ -1,2 +1,2 @@
 # Parallax-website
-A basic parallax website
+A basic parallax website built using CSS.
